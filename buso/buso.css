@@ -5,6 +5,7 @@ body {
 	max-width: 1000px;
 	text-align: justify;
 	color: #522F00;
+	background-color: #FFF5E8;
 }
 
 p:first-letter {
@@ -34,7 +35,10 @@ img {
 .balra {
 	float: left;
 }
+.Jobbra{
 
+	float: right;
+}
 
 q {
 	font-style: italic;
@@ -42,6 +46,7 @@ q {
 
 li {
 	margin-bottom: 25px;
+	list-style-image: url('jel.png');
 }
 
 footer{
