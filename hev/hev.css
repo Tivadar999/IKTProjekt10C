@@ -1,4 +1,5 @@
 body{
+  background-image: url();
   background-repeat: repeat-y;
   background-position: left;
   padding: 10px 40px 10px 110px;
@@ -11,6 +12,7 @@ p:first-letter{
 
 h1, h2{
   font-variant: small-caps;
+  text-align: justify;
 }
 
 .kepek{
@@ -22,6 +24,7 @@ h1, h2{
   -ms-transform: rotate(3deg); /* IE 9 */
   -webkit-transform: rotate(3deg); /* Chrome, Safari, Opera */
   transform: rotate(3deg);
+  float: right;
 }
 
 #urlap{
