@@ -14,7 +14,7 @@ if(Number%2==0):
     print("szám páros")
 else:
     print("páratlan")
-    '''
+   
 
     #4.fel
 
@@ -35,3 +35,9 @@ else:
     else:
     
         print("Egyenlo")
+ '''
+
+
+for x in range(1,11):
+    print(x)
+    
