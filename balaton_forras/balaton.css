@@ -90,6 +90,7 @@ blockquote{
     list-style-type: none;
     padding-left: 0px;
     margin-left: 0px;
+    float: right;
 }
 
 #halLista li {
